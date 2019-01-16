@@ -13,8 +13,10 @@ WDC Tools was used to assemble and link all of assembler source files.
 C02BIOS and C02Monitor are separate source files
 
   C02BIOS provides a JMP table and access to the hardware
-    SCC2691 UART provides Console via USB/Serial, Timer for RTC and accurate software delays
+    SCC2691 UART provides Console via USB/Serial.
+    16-bit timer for RTC and accurate software delays
     
   C02Monitor provides a JMP table for core functions accessible from other progams
-    A rich set of monitor features/functions are included, see source code for details
+    A rich set of monitor features/functions are included
+    * see source code for details
     
