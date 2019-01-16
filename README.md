@@ -19,4 +19,3 @@ C02BIOS and C02Monitor are separate source files
   C02Monitor provides a JMP table for core functions accessible from other progams
     A rich set of monitor features/functions are included
     * see source code for details
-    
