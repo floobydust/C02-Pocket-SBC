@@ -2,11 +2,11 @@
 A Pocket-sized 65C02 SBC with SCC2691 UART console
 
 This is small 4-layer PCB that is 3.8" x 2.5" in size
-  ExpressPCB was used for the schematic and PCB layout
-  Boards were acquired via their Miniboard Pro service
+  ExpressPCB was used for the schematic and PCB layout.
+  Boards were acquired via their Miniboard Pro service.
   
-Atmel Wincupl was used to create the files needed to program the ATF22V10CQZ
-WDC Tools was used to assemble and link all of assembler source files
+Atmel Wincupl was used to create the files needed to program the ATF22V10CQZ.
+WDC Tools was used to assemble and link all of assembler source files.
 
 C02BIOS and C02Monitor are separate source files
 
