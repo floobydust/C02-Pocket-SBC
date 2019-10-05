@@ -19,3 +19,13 @@ C02BIOS and C02Monitor are separate source files.
   C02Monitor provides a JMP table for core functions accessible from other progams.
     A rich set of monitor features/functions are included.
     * see source code for details.
+
+An updated C02 BIOS and Monitor version 2.04 has been added.
+    Added code to support CMOS version of Enhanced Basic
+    Added Xmodem-CRC entry points for access by Enhanced Basic
+
+Enhanced Basic version 2.22p4C added
+    Based on Lee Davison's original 2.22 code with fixes by Klaus Dorman (2.22p4)
+    CMOS update only runs on a CMOS version 65C02
+    Shorter code base plus some performance enhancements and less page zero usage
+    LOAD/SAVE supported functions linking to C02 Monitor 2.04
